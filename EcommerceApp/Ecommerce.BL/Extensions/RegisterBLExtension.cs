@@ -1,4 +1,6 @@
-﻿using Ecommerce.BL.Services.Abstractions;
+﻿using Ecommerce.BL.ExternalServices.Abstractions;
+using Ecommerce.BL.ExternalServices.Implementations;
+using Ecommerce.BL.Services.Abstractions;
 using Ecommerce.BL.Services.Implementations;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -16,5 +18,6 @@ public static class RegisterBLExtension
         services.AddScoped<IProductService, ProductService>();
         services.AddScoped<IOrderService, OrderService>();
         services.AddScoped<IOrderItemService, OrderItemService>();
+        services.AddScoped<IJwtTokenService, JwtTokenService>();
     }
 }

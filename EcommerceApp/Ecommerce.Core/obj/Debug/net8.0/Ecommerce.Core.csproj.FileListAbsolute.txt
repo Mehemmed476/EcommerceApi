@@ -9,3 +9,16 @@ C:\Users\II Novbe\source\repos\EcommerceApp\Ecommerce.Core\obj\Debug\net8.0\Ecom
 C:\Users\II Novbe\source\repos\EcommerceApp\Ecommerce.Core\obj\Debug\net8.0\refint\Ecommerce.Core.dll
 C:\Users\II Novbe\source\repos\EcommerceApp\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.pdb
 C:\Users\II Novbe\source\repos\EcommerceApp\Ecommerce.Core\obj\Debug\net8.0\ref\Ecommerce.Core.dll
+C:\Users\II Novbe\Desktop\EcommerceApi\EcommerceApp\Ecommerce.Core\bin\Debug\net8.0\Ecommerce.Core.deps.json
+C:\Users\II Novbe\Desktop\EcommerceApi\EcommerceApp\Ecommerce.Core\bin\Debug\net8.0\Ecommerce.Core.dll
+C:\Users\II Novbe\Desktop\EcommerceApi\EcommerceApp\Ecommerce.Core\bin\Debug\net8.0\Ecommerce.Core.pdb
+C:\Users\II Novbe\Desktop\EcommerceApi\EcommerceApp\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.csproj.AssemblyReference.cache
+C:\Users\II Novbe\Desktop\EcommerceApi\EcommerceApp\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\EcommerceApi\EcommerceApp\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\EcommerceApi\EcommerceApp\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\EcommerceApi\EcommerceApp\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\EcommerceApi\EcommerceApp\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.sourcelink.json
+C:\Users\II Novbe\Desktop\EcommerceApi\EcommerceApp\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.dll
+C:\Users\II Novbe\Desktop\EcommerceApi\EcommerceApp\Ecommerce.Core\obj\Debug\net8.0\refint\Ecommerce.Core.dll
+C:\Users\II Novbe\Desktop\EcommerceApi\EcommerceApp\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.pdb
+C:\Users\II Novbe\Desktop\EcommerceApi\EcommerceApp\Ecommerce.Core\obj\Debug\net8.0\ref\Ecommerce.Core.dll

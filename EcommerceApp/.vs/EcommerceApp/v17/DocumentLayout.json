@@ -1,34 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\EcommerceApp\\",
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{799F6B26-4F2B-4834-B062-AD1B039777C3}|Ecommerce.DAL\\Ecommerce.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\ecommerceapp\\ecommerce.dal\\repositories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{799F6B26-4F2B-4834-B062-AD1B039777C3}|Ecommerce.DAL\\Ecommerce.DAL.csproj|solutionrelative:ecommerce.dal\\repositories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45F7FA62-3E0E-475F-851E-9DB753134BD6}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\ii novbe\\desktop\\ecommerceapi\\ecommerceapp\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F7FA62-3E0E-475F-851E-9DB753134BD6}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{799F6B26-4F2B-4834-B062-AD1B039777C3}|Ecommerce.DAL\\Ecommerce.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\ecommerceapp\\ecommerce.dal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{799F6B26-4F2B-4834-B062-AD1B039777C3}|Ecommerce.DAL\\Ecommerce.DAL.csproj|solutionrelative:ecommerce.dal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45F7FA62-3E0E-475F-851E-9DB753134BD6}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\ii novbe\\desktop\\ecommerceapi\\ecommerceapp\\ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45F7FA62-3E0E-475F-851E-9DB753134BD6}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|c:\\users\\ii novbe\\source\\repos\\ecommerceapp\\ecommerce.bl\\services\\implementations\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|solutionrelative:ecommerce.bl\\services\\implementations\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45F7FA62-3E0E-475F-851E-9DB753134BD6}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\ii novbe\\desktop\\ecommerceapi\\ecommerceapp\\ecommerce.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F7FA62-3E0E-475F-851E-9DB753134BD6}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|c:\\users\\ii novbe\\source\\repos\\ecommerceapp\\ecommerce.bl\\services\\abstractions\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|solutionrelative:ecommerce.bl\\services\\abstractions\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45F7FA62-3E0E-475F-851E-9DB753134BD6}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\ii novbe\\source\\repos\\ecommerceapp\\ecommerce.api\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45F7FA62-3E0E-475F-851E-9DB753134BD6}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45F7FA62-3E0E-475F-851E-9DB753134BD6}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\ii novbe\\source\\repos\\ecommerceapp\\ecommerce.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45F7FA62-3E0E-475F-851E-9DB753134BD6}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\ii novbe\\desktop\\ecommerceapi\\ecommerceapp\\ecommerce.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45F7FA62-3E0E-475F-851E-9DB753134BD6}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45F7FA62-3E0E-475F-851E-9DB753134BD6}|Ecommerce.API\\Ecommerce.API.csproj|c:\\users\\ii novbe\\source\\repos\\ecommerceapp\\ecommerce.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45F7FA62-3E0E-475F-851E-9DB753134BD6}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|c:\\users\\ii novbe\\desktop\\ecommerceapi\\ecommerceapp\\ecommerce.bl\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|solutionrelative:ecommerce.bl\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|c:\\users\\ii novbe\\desktop\\ecommerceapi\\ecommerceapp\\ecommerce.bl\\extensions\\registerblextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|solutionrelative:ecommerce.bl\\extensions\\registerblextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|c:\\users\\ii novbe\\desktop\\ecommerceapi\\ecommerceapp\\ecommerce.bl\\externalservices\\implementations\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|solutionrelative:ecommerce.bl\\externalservices\\implementations\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|c:\\users\\ii novbe\\desktop\\ecommerceapi\\ecommerceapp\\ecommerce.bl\\externalservices\\abstractions\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|solutionrelative:ecommerce.bl\\externalservices\\abstractions\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508F5CB8-3F8D-486D-BA30-FF083B646776}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ii novbe\\desktop\\ecommerceapi\\ecommerceapp\\ecommerce.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508F5CB8-3F8D-486D-BA30-FF083B646776}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|c:\\users\\ii novbe\\desktop\\ecommerceapi\\ecommerceapp\\ecommerce.bl\\services\\implementations\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|solutionrelative:ecommerce.bl\\services\\implementations\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|c:\\users\\ii novbe\\desktop\\ecommerceapi\\ecommerceapp\\ecommerce.bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|solutionrelative:ecommerce.bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|c:\\users\\ii novbe\\desktop\\ecommerceapi\\ecommerceapp\\ecommerce.bl\\profiles\\authprofiles\\authprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|solutionrelative:ecommerce.bl\\profiles\\authprofiles\\authprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|c:\\users\\ii novbe\\desktop\\ecommerceapi\\ecommerceapp\\ecommerce.bl\\dtos\\authdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|solutionrelative:ecommerce.bl\\dtos\\authdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|c:\\users\\ii novbe\\desktop\\ecommerceapi\\ecommerceapp\\ecommerce.bl\\dtos\\authdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6EB5B83-EE88-4872-A55A-CB24F1E4ABCA}|Ecommerce.BL\\Ecommerce.BL.csproj|solutionrelative:ecommerce.bl\\dtos\\authdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799F6B26-4F2B-4834-B062-AD1B039777C3}|Ecommerce.DAL\\Ecommerce.DAL.csproj|c:\\users\\ii novbe\\desktop\\ecommerceapi\\ecommerceapp\\ecommerce.dal\\configurations\\appuserconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799F6B26-4F2B-4834-B062-AD1B039777C3}|Ecommerce.DAL\\Ecommerce.DAL.csproj|solutionrelative:ecommerce.dal\\configurations\\appuserconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,93 +78,197 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EcommerceApp\\Ecommerce.DAL\\Repositories\\Implementations\\Repository.cs",
-              "RelativeDocumentMoniker": "Ecommerce.DAL\\Repositories\\Implementations\\Repository.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EcommerceApp\\Ecommerce.DAL\\Repositories\\Implementations\\Repository.cs",
-              "RelativeToolTip": "Ecommerce.DAL\\Repositories\\Implementations\\Repository.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAA9wBwAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:34:07.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EcommerceApp\\Ecommerce.DAL\\Repositories\\Abstractions\\IRepository.cs",
-              "RelativeDocumentMoniker": "Ecommerce.DAL\\Repositories\\Abstractions\\IRepository.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EcommerceApp\\Ecommerce.DAL\\Repositories\\Abstractions\\IRepository.cs",
-              "RelativeToolTip": "Ecommerce.DAL\\Repositories\\Abstractions\\IRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwAwAAAAtAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.API\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce.API\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.API\\Program.cs",
+              "RelativeToolTip": "Ecommerce.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:33:57.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IOrderItemService.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EcommerceApp\\Ecommerce.BL\\Services\\Abstractions\\IOrderItemService.cs",
-              "RelativeDocumentMoniker": "Ecommerce.BL\\Services\\Abstractions\\IOrderItemService.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EcommerceApp\\Ecommerce.BL\\Services\\Abstractions\\IOrderItemService.cs",
-              "RelativeToolTip": "Ecommerce.BL\\Services\\Abstractions\\IOrderItemService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:33:25.433Z",
+              "WhenOpened": "2024-12-27T10:29:18.497Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "OrderItemService.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EcommerceApp\\Ecommerce.BL\\Services\\Implementations\\OrderItemService.cs",
-              "RelativeDocumentMoniker": "Ecommerce.BL\\Services\\Implementations\\OrderItemService.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EcommerceApp\\Ecommerce.BL\\Services\\Implementations\\OrderItemService.cs",
-              "RelativeToolTip": "Ecommerce.BL\\Services\\Implementations\\OrderItemService.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:33:22.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EcommerceApp\\Ecommerce.API\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.API\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EcommerceApp\\Ecommerce.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.API\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Ecommerce.API\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAAAH0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:30:35.98Z",
+              "WhenOpened": "2024-12-27T10:29:16.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderItemsController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EcommerceApp\\Ecommerce.API\\Controllers\\OrderItemsController.cs",
-              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\OrderItemsController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EcommerceApp\\Ecommerce.API\\Controllers\\OrderItemsController.cs",
-              "RelativeToolTip": "Ecommerce.API\\Controllers\\OrderItemsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Ecommerce.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:30:22.124Z",
+              "WhenOpened": "2024-12-27T10:29:15.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EcommerceApp\\Ecommerce.API\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "Ecommerce.API\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EcommerceApp\\Ecommerce.API\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "Ecommerce.API\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwA0AAAAvAAAAAAAAAA==",
+              "Title": "RegisterBLExtension.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.BL\\Extensions\\RegisterBLExtension.cs",
+              "RelativeDocumentMoniker": "Ecommerce.BL\\Extensions\\RegisterBLExtension.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.BL\\Extensions\\RegisterBLExtension.cs",
+              "RelativeToolTip": "Ecommerce.BL\\Extensions\\RegisterBLExtension.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:30:09.564Z",
+              "WhenOpened": "2024-12-27T10:26:55.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Ecommerce.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.API\\appsettings.json",
+              "RelativeToolTip": "Ecommerce.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T10:25:49.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.BL\\ExternalServices\\Implementations\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.BL\\ExternalServices\\Implementations\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.BL\\ExternalServices\\Implementations\\JwtTokenService.cs",
+              "RelativeToolTip": "Ecommerce.BL\\ExternalServices\\Implementations\\JwtTokenService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:24:42.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.BL\\ExternalServices\\Abstractions\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.BL\\ExternalServices\\Abstractions\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.BL\\ExternalServices\\Abstractions\\IJwtTokenService.cs",
+              "RelativeToolTip": "Ecommerce.BL\\ExternalServices\\Abstractions\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:24:21.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.BL\\Services\\Implementations\\OrderItemService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.BL\\Services\\Implementations\\OrderItemService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.BL\\Services\\Implementations\\OrderItemService.cs",
+              "RelativeToolTip": "Ecommerce.BL\\Services\\Implementations\\OrderItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:20:35.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.BL\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.BL\\Services\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.BL\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "Ecommerce.BL\\Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:18:57.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.BL\\Services\\Abstractions\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.BL\\Services\\Abstractions\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.BL\\Services\\Abstractions\\IAuthService.cs",
+              "RelativeToolTip": "Ecommerce.BL\\Services\\Abstractions\\IAuthService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:18:43.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthProfile.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.BL\\Profiles\\AuthProfiles\\AuthProfile.cs",
+              "RelativeDocumentMoniker": "Ecommerce.BL\\Profiles\\AuthProfiles\\AuthProfile.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.BL\\Profiles\\AuthProfiles\\AuthProfile.cs",
+              "RelativeToolTip": "Ecommerce.BL\\Profiles\\AuthProfiles\\AuthProfile.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:16:36.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.BL\\DTOs\\AuthDTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Ecommerce.BL\\DTOs\\AuthDTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.BL\\DTOs\\AuthDTOs\\RegisterDto.cs",
+              "RelativeToolTip": "Ecommerce.BL\\DTOs\\AuthDTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:14:07.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.BL\\DTOs\\AuthDTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Ecommerce.BL\\DTOs\\AuthDTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.BL\\DTOs\\AuthDTOs\\LoginDto.cs",
+              "RelativeToolTip": "Ecommerce.BL\\DTOs\\AuthDTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:13:57.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppUserConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.DAL\\Configurations\\AppUserConfigurations.cs",
+              "RelativeDocumentMoniker": "Ecommerce.DAL\\Configurations\\AppUserConfigurations.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.DAL\\Configurations\\AppUserConfigurations.cs",
+              "RelativeToolTip": "Ecommerce.DAL\\Configurations\\AppUserConfigurations.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:11:14.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\EcommerceApi\\EcommerceApp\\Ecommerce.Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:08:12.778Z",
               "EditorCaption": ""
             }
           ]
